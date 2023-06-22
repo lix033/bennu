@@ -10,3 +10,4 @@ Press the Go Live button at the bottom of your VsCode editor (a browser window w
 NB: the shipment-1 & 2 JSON files contain errors: instead of Status, it says satus, but the Json file contains no errors.
 As for the design you provided, I had trouble reproducing it, but I think mine meets your expectations.
 Thank you for your help.
+les dossier Shipment-2 et 3 se trouves dans les branches respectives Shipment2 et shipment3
